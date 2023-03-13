@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    password: sa
+    url: jdbc:h2:mem:testdb
+    username: sa
+  datsource:
+    driver-class-name: org.h2.Driver
