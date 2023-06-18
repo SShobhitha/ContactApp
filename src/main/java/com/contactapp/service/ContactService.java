@@ -1,9 +1,9 @@
-package in.ashokit.service;
+package com.contactapp.service;
 
 
 import java.util.List;
 
-import in.ashokit.entity.Contact;
+import com.contactapp.entity.Contact;
 
 public interface ContactService {
 	

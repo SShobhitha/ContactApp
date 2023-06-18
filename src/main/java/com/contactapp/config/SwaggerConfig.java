@@ -1,4 +1,4 @@
-package in.ashokit.config;
+package com.contactapp.config;
 
 import org.springframework.context.annotation.Configuration;
 

@@ -1,4 +1,4 @@
-package in.ashokit.rest;
+package com.contactapp.rest;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.ashokit.entity.Contact;
-import in.ashokit.service.ContactService;
+import com.contactapp.entity.Contact;
+import com.contactapp.service.ContactService;
 
 @RestController
 public class ContactRestController {

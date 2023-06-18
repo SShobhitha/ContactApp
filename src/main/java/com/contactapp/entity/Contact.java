@@ -1,4 +1,4 @@
-package in.ashokit.entity;
+package com.contactapp.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

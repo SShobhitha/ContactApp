@@ -1,8 +1,8 @@
-package in.ashokit.repository;
+package com.contactapp.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import in.ashokit.entity.Contact;
+import com.contactapp.entity.Contact;
 
 public interface ContactRepository extends CrudRepository<Contact, Integer> {
 

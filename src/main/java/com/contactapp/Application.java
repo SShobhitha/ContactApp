@@ -1,9 +1,9 @@
-package in.ashokit;
+package com.contactapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import in.ashokit.entity.Contact;
+import com.contactapp.entity.Contact;
 
 @SpringBootApplication
 public class Application {
